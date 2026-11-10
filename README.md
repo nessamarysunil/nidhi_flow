@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 നിധി ഫ്ലോ | NidhiFlow
 > *"ചെറിയ സമ്പാദ്യം, വലിയ പ്രതീക്ഷകൾ"* — Voice-Confirmed, Tamper-Evident Community Passbook  
 > **A Verification-First Malayalam-English Voice Accounting Companion for Kudumbashree Self-Help Groups (SHGs) and Grassroots Microfinance Collectives**
@@ -294,3 +295,7 @@ python tests/test_scenarios.py
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+=======
+# nidhi_flow
+Voice-confirmed, tamper-evident community passbook for Kerala SHGs — Malayalam STT via Gnani.ai + SHA-256 hash-chained ledger with governance guardrails.
+>>>>>>> 49897dae294f6f53afa56d46a1fcac549f3b12d2
