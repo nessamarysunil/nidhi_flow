@@ -1,4 +1,4 @@
-# NidhiFlow 🌱
+# NidhiFlow 
 ### Making every saving count.
 
 **A Malayalam-first, voice-assisted digital passbook for Self-Help Groups (SHGs).**
